@@ -9,7 +9,6 @@ Esta Política de Privacidade descreve como as suas informações são coletadas
 Para fornecer e melhorar os serviços do App, coletamos as seguintes informações:
 
 * **Informações de Cadastro:** Quando você cria uma conta, coletamos as informações fornecidas, como seu endereço de e-mail e nome de usuário, através do serviço de autenticação do Firebase.
-* **Dados de Localização:** Com sua permissão, coletamos dados de localização precisa e aproximada (GPS e baseada em rede) para operar as funcionalidades principais do App, como a exibição de máquinas e sua posição no mapa.
 * **Informações de Uso:** Podemos coletar informações sobre como você interage com o App, como as funcionalidades que você acessa e os botões que clica, para melhorar a experiência do usuário.
 * **Dados Armazenados:** As informações sobre as máquinas e logs de atividades são armazenadas de forma segura no Google Firebase (Firestore e Storage).
 
@@ -19,7 +18,6 @@ Utilizamos os dados coletados para as seguintes finalidades:
 
 * **Fornecer e Manter o App:** Para autenticar usuários, permitir o acesso às funcionalidades, e operar o serviço.
 * **Personalização:** Para personalizar sua experiência no App.
-* **Funcionalidade de Mapa:** Para exibir sua localização e a localização de equipamentos no mapa.
 * **Comunicação:** Para enviar notificações importantes sobre o serviço, se a permissão for concedida.
 * **Segurança e Melhoria:** Para monitorar o uso, prevenir fraudes e melhorar a estabilidade e os recursos do App.
 
