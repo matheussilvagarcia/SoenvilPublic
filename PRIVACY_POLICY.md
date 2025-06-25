@@ -41,4 +41,4 @@ Você tem o direito de acessar e atualizar suas informações pessoais através 
 
 ## 6. CONTATO
 
-Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato pelo e-mail: **[seu-email-de-contato@exemplo.com]**
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato pelo e-mail: **[email@matheussilvagarcia.com]**
